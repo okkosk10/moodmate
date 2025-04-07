@@ -1,0 +1,22 @@
+{
+    "name": "MoodMate",
+    "short_name": "MoodMate",
+    "description": "감정 기반 감정 기록 앱",
+    "theme_color": "#facc15", 
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "pwa-192x192.png", 
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "pwa-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
