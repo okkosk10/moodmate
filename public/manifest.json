@@ -5,7 +5,7 @@
     "theme_color": "#facc15", 
     "background_color": "#ffffff",
     "display": "standalone",
-    "start_url": "/",
+    "start_url": "/index.html",
     "icons": [
       {
         "src": "pwa-192x192.png", 
